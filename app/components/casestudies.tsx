@@ -6,7 +6,7 @@ const caseStudies = [
   {
     brand: "GlowSkin",
     industry: "Ecommerce",
-    image: "/case-studies/glowskin.jpg",
+    image: "/glow.jpg",
     resultOne: "+156%",
     labelOne: "Increase in Sales",
     resultTwo: "3.2x",
@@ -15,7 +15,7 @@ const caseStudies = [
   {
     brand: "Soundwave",
     industry: "Technology",
-    image: "/case-studies/soundwave.jpg",
+    image: "/sound.jpg",
     resultOne: "+210%",
     labelOne: "Organic Traffic",
     resultTwo: "+85%",
@@ -24,7 +24,7 @@ const caseStudies = [
   {
     brand: "UrbanNest",
     industry: "Real Estate",
-    image: "/case-studies/urbannest.jpg",
+    image: "/urban.jpg",
     resultOne: "+178%",
     labelOne: "Qualified Leads",
     resultTwo: "-40%",
