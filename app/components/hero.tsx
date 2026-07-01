@@ -1,3 +1,4 @@
+"use client";
 import {
   ArrowRight,
   PlayCircle,
@@ -140,3 +141,4 @@ export default function Hero() {
     </section>
   );
 }
+
