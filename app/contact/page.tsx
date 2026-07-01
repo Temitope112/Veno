@@ -75,12 +75,12 @@ ${form.message}`;
               {
                 icon: Mail,
                 title: "Email",
-                text: "hello@elevatedigital.com",
+                text: "venoo2026@gmail.com",
               },
               {
                 icon: Phone,
                 title: "Phone",
-                text: "+234 903 706 0290",
+                text: "+234 9155653777",
               },
               {
                 icon: MapPin,
